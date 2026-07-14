@@ -1,4 +1,4 @@
-export default function Barberia232Website() {
+export default function BarbersEliteWebsite() {
   const services = [
     {
       title: 'Classic Cut',
@@ -35,7 +35,7 @@ export default function Barberia232Website() {
         <div className="max-w-7xl mx-auto px-6 py-5 flex items-center justify-between">
           <div>
             <h1 className="text-2xl font-black tracking-[0.3em]">
-              BARBERÍA 232
+              BARBERS ELITE
             </h1>
           </div>
 
@@ -127,7 +127,7 @@ export default function Barberia232Website() {
 
               <div className="absolute top-10 left-10 bg-white/90 backdrop-blur-xl px-6 py-4 rounded-2xl shadow-2xl border border-gray-200">
                 <p className="text-xs uppercase tracking-[0.3em] text-gray-500 mb-2">
-                  Barbería 232
+                  Barbers Elite
                 </p>
                 <h3 className="text-2xl font-black">Classic Modern</h3>
               </div>
@@ -139,7 +139,7 @@ export default function Barberia232Website() {
       {/* Marquee */}
       <section className="py-8 border-y border-gray-200 bg-black text-white overflow-hidden">
         <div className="flex gap-16 whitespace-nowrap text-3xl font-black tracking-[0.2em] animate-pulse">
-          <span>BARBERÍA 232</span>
+          <span>BARBERS ELITE </span>
           <span>PREMIUM EXPERIENCE</span>
           <span>MODERN STYLE</span>
           <span>CLASSIC CUTS</span>
@@ -262,7 +262,7 @@ export default function Barberia232Website() {
 
         <div className="max-w-5xl mx-auto px-6 text-center relative z-10">
           <div className="inline-block px-6 py-3 rounded-full bg-black text-white uppercase tracking-[0.3em] text-sm mb-10 shadow-2xl">
-            Barbería 232
+            Barbers Elite
           </div>
 
           <h2 className="text-6xl md:text-8xl font-black leading-[0.95] mb-10">
@@ -272,7 +272,7 @@ export default function Barberia232Website() {
           </h2>
 
           <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed mb-14">
-            Boulevard Luis D. Colosio 671 Interior 232, Hermosillo Sonora.
+           Av. Normalistas 464, Colinas de La Normal, 44270 Guadalajara, Jal.
             Lunes a sábado de 11:00 AM a 8:00 PM.
           </p>
 
